@@ -5,6 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<PackageId>Ray.EventBus</PackageId>
 	<Version>0.1.0</Version>
 	<Authors>ray</Authors>
 	<RepositoryUrl>https://github.com/StarGuideX/msa-buildingBlocks.git</RepositoryUrl>
